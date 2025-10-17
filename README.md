@@ -1,6 +1,9 @@
 # ParkAsssintente
 
 Rafeel yuri, Samuel, Thyago Soares
+
+
+
 🧠 Pensamento Lógico
 No início do projeto, Nos adotamos  uma abordagem estratégica: criaram uma estrutura básica do código para entender o funcionamento geral do sistema. Essa etapa foi essencial para visualizar o fluxo de funcionamento do estacionamento inteligente — desde a detecção de veículos até a abertura e fechamento das cancelas. Essa base serviu como um guia para as próximas etapas, permitindo que o grupo evoluísse o código de forma organizada e com propósito.
 
